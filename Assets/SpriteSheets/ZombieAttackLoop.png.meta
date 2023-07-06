@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c55ee1953b870b74489dd6b083705474
+timeCreated: 1528710302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZombieAttackLoop_0
+    21300002: ZombieAttackLoop_1
+    21300004: ZombieAttackLoop_2
+    21300006: ZombieAttackLoop_3
+    21300008: ZombieAttackLoop_4
+    21300010: ZombieAttackLoop_5
+    21300012: ZombieAttackLoop_6
+    21300014: ZombieAttackLoop_7
+    21300016: ZombieAttackLoop_8
+    21300018: ZombieAttackLoop_9
+    21300020: ZombieAttackLoop_10
+    21300022: ZombieAttackLoop_11
+    21300024: ZombieAttackLoop_12
+    21300026: ZombieAttackLoop_13
+    21300028: ZombieAttackLoop_14
+    21300030: ZombieAttackLoop_15
+    21300032: ZombieAttackLoop_16
+    21300034: ZombieAttackLoop_17
+    21300036: ZombieAttackLoop_18
+    21300038: ZombieAttackLoop_19
+    21300040: ZombieAttackLoop_20
+    21300042: ZombieAttackLoop_21
+    21300044: ZombieAttackLoop_22
+    21300046: ZombieAttackLoop_23
+    21300048: ZombieAttackLoop_24
+    21300050: ZombieAttackLoop_25
+    21300052: ZombieAttackLoop_26
+    21300054: ZombieAttackLoop_27
+    21300056: ZombieAttackLoop_28
+    21300058: ZombieAttackLoop_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieAttackLoop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1792
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1664
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1536
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1408
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1280
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1152
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1024
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 896
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 768
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 640
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 512
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 384
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttackLoop_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7967212, y: 0.0180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

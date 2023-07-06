@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 1afd3698e2afef3429a027b1ae67b0f9
+timeCreated: 1528926038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Evildoorfix_0
+    21300002: Evildoorfix_1
+    21300004: Evildoorfix_2
+    21300006: Evildoorfix_3
+    21300008: Evildoorfix_4
+    21300010: Evildoorfix_5
+    21300012: Evildoorfix_6
+    21300014: Evildoorfix_7
+    21300016: Evildoorfix_8
+    21300018: Evildoorfix_9
+    21300020: Evildoorfix_10
+    21300022: Evildoorfix_11
+    21300024: Evildoorfix_12
+    21300026: Evildoorfix_13
+    21300028: Evildoorfix_14
+    21300030: Evildoorfix_15
+    21300032: Evildoorfix_16
+    21300034: Evildoorfix_17
+    21300036: Evildoorfix_18
+    21300038: Evildoorfix_19
+    21300040: Evildoorfix_20
+    21300042: Evildoorfix_21
+    21300044: Evildoorfix_22
+    21300046: Evildoorfix_23
+    21300048: Evildoorfix_24
+    21300050: Evildoorfix_25
+    21300052: Evildoorfix_26
+    21300054: Evildoorfix_27
+    21300056: Evildoorfix_28
+    21300058: Evildoorfix_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evildoorfix_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 770
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 770
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 770
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 770
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 770
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 618
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 618
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 618
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 618
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 618
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 466
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 466
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 466
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_14
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 466
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 314
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 314
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 314
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_19
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 314
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 162
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 162
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 162
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_24
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 162
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 10
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 10
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Evildoorfix_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 10
+        width: 170
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

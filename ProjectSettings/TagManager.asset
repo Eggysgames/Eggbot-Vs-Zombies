@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - armgun
+  - sight
+  - Enemy
+  - Little
+  - NoDecal
+  - FxTemporaire
+  - Dead
+  - Bottom
+  - CrabEnemy
+  - Extra
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Little
+  - Foreground
+  - Player
+  - Ignore
+  - Projectile
+  - Fire
+  - PowerUps
+  - IgnoreCrab
+  - SecurityBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3952700695
+    locked: 0
+  - name: Foreground
+    uniqueID: 3171553623
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2044034047
+    locked: 0
+  - name: Enemys
+    uniqueID: 1972995077
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 423650001
+    locked: 0

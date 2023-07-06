@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: e3e3d7433fba16148b67c24c25d2dc7d
+timeCreated: 1528619911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeadlessDeathFixed_0
+    21300002: HeadlessDeathFixed_1
+    21300004: HeadlessDeathFixed_2
+    21300006: HeadlessDeathFixed_3
+    21300008: HeadlessDeathFixed_4
+    21300010: HeadlessDeathFixed_5
+    21300012: HeadlessDeathFixed_6
+    21300014: HeadlessDeathFixed_7
+    21300016: HeadlessDeathFixed_8
+    21300018: HeadlessDeathFixed_9
+    21300020: HeadlessDeathFixed_10
+    21300022: HeadlessDeathFixed_11
+    21300024: HeadlessDeathFixed_12
+    21300026: HeadlessDeathFixed_13
+    21300028: HeadlessDeathFixed_14
+    21300030: HeadlessDeathFixed_15
+    21300032: HeadlessDeathFixed_16
+    21300034: HeadlessDeathFixed_17
+    21300036: HeadlessDeathFixed_18
+    21300038: HeadlessDeathFixed_19
+    21300040: HeadlessDeathFixed_20
+    21300042: HeadlessDeathFixed_21
+    21300044: HeadlessDeathFixed_22
+    21300046: HeadlessDeathFixed_23
+    21300048: HeadlessDeathFixed_24
+    21300050: HeadlessDeathFixed_25
+    21300052: HeadlessDeathFixed_26
+    21300054: HeadlessDeathFixed_27
+    21300056: HeadlessDeathFixed_28
+    21300058: HeadlessDeathFixed_29
+    21300060: HeadlessDeathFixed_30
+    21300062: HeadlessDeathFixed_31
+    21300064: HeadlessDeathFixed_32
+    21300066: HeadlessDeathFixed_33
+    21300068: HeadlessDeathFixed_34
+    21300070: HeadlessDeathFixed_35
+    21300072: HeadlessDeathFixed_36
+    21300074: HeadlessDeathFixed_37
+    21300076: HeadlessDeathFixed_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1062
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1062
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1062
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 944
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 944
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 944
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 826
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 826
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 826
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 708
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 708
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 708
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 590
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 590
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 472
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 472
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 472
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 354
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 354
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 354
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 236
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 236
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 236
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 118
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 118
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 118
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadlessDeathFixed_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 118
+      alignment: 9
+      pivot: {x: 0.814235, y: 0.2321591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

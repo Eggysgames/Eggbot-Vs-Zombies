@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 2cb6d95265f84f649a8ec448da1eccb5
+timeCreated: 1528709666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZombieAttack1_0
+    21300002: ZombieAttack1_1
+    21300004: ZombieAttack1_2
+    21300006: ZombieAttack1_3
+    21300008: ZombieAttack1_4
+    21300010: ZombieAttack1_5
+    21300012: ZombieAttack1_6
+    21300014: ZombieAttack1_7
+    21300016: ZombieAttack1_8
+    21300018: ZombieAttack1_9
+    21300020: ZombieAttack1_10
+    21300022: ZombieAttack1_11
+    21300024: ZombieAttack1_12
+    21300026: ZombieAttack1_13
+    21300028: ZombieAttack1_14
+    21300030: ZombieAttack1_15
+    21300032: ZombieAttack1_16
+    21300034: ZombieAttack1_17
+    21300036: ZombieAttack1_18
+    21300038: ZombieAttack1_19
+    21300040: ZombieAttack1_20
+    21300042: ZombieAttack1_21
+    21300044: ZombieAttack1_22
+    21300046: ZombieAttack1_23
+    21300048: ZombieAttack1_24
+    21300050: ZombieAttack1_25
+    21300052: ZombieAttack1_26
+    21300054: ZombieAttack1_27
+    21300056: ZombieAttack1_28
+    21300058: ZombieAttack1_29
+    21300060: ZombieAttack1_30
+    21300062: ZombieAttack1_31
+    21300064: ZombieAttack1_32
+    21300066: ZombieAttack1_33
+    21300068: ZombieAttack1_34
+    21300070: ZombieAttack1_35
+    21300072: ZombieAttack1_36
+    21300074: ZombieAttack1_37
+    21300076: ZombieAttack1_38
+    21300078: ZombieAttack1_39
+    21300080: ZombieAttack1_40
+    21300082: ZombieAttack1_41
+    21300084: ZombieAttack1_42
+    21300086: ZombieAttack1_43
+    21300088: ZombieAttack1_44
+    21300090: ZombieAttack1_45
+    21300092: ZombieAttack1_46
+    21300094: ZombieAttack1_47
+    21300096: ZombieAttack1_48
+    21300098: ZombieAttack1_49
+    21300100: ZombieAttack1_50
+    21300102: ZombieAttack1_51
+    21300104: ZombieAttack1_52
+    21300106: ZombieAttack1_53
+    21300108: ZombieAttack1_54
+    21300110: ZombieAttack1_55
+    21300112: ZombieAttack1_56
+    21300114: ZombieAttack1_57
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 256
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_28
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_31
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_32
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_33
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_34
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_35
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_36
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_37
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_38
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_39
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 128
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_50
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_51
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_52
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_53
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_54
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_55
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_56
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieAttack1_57
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7871523, y: 0.01544785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

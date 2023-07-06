@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggbot Vs Zombies Original", "Eggbot Vs Zombies Original.csproj", "{864EB58C-638B-0577-0FE8-969A4D5D5474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggbot Vs Zombies Original.Plugins", "Eggbot Vs Zombies Original.Plugins.csproj", "{D57E2A64-D82C-B8A3-0E26-5C0C19C6F255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggbot Vs Zombies Original.Editor", "Eggbot Vs Zombies Original.Editor.csproj", "{63B27FD4-09BF-E4E3-F384-C95A5A95CE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864EB58C-638B-0577-0FE8-969A4D5D5474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864EB58C-638B-0577-0FE8-969A4D5D5474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864EB58C-638B-0577-0FE8-969A4D5D5474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864EB58C-638B-0577-0FE8-969A4D5D5474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57E2A64-D82C-B8A3-0E26-5C0C19C6F255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57E2A64-D82C-B8A3-0E26-5C0C19C6F255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57E2A64-D82C-B8A3-0E26-5C0C19C6F255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57E2A64-D82C-B8A3-0E26-5C0C19C6F255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B27FD4-09BF-E4E3-F384-C95A5A95CE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B27FD4-09BF-E4E3-F384-C95A5A95CE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B27FD4-09BF-E4E3-F384-C95A5A95CE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B27FD4-09BF-E4E3-F384-C95A5A95CE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
